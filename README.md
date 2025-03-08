@@ -17,11 +17,11 @@ _____________________________________________________________________
 |                                                                   |            
 |___________________________________________________________________|            
 			
-|____________________________________________________________________
-|	WORK IN PROGRESS: COMPLETE 8086 SIMULATION (Proteus 8)	    	|
-|	1. Enter the micro_proteus directory						    |
-|	2. Open the micro.pdsprj archive in Proteus		   				|
-|	3. Load test.asm to ROM											|
-|	4. Start the simulation!										|
+_____________________________________________________________________
+|	WORK IN PROGRESS: COMPLETE 8086 SIMULATION (Proteus 8)	    |
+|	1. Enter the micro_proteus directory			    |
+|	2. Open the micro.pdsprj archive in Proteus		    |
+|	3. Load test.asm to ROM					    |
+|	4. Start the simulation!				    |
 |___________________________________________________________________|
 ```
