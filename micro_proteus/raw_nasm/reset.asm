@@ -1,0 +1,11 @@
+
+; RESET VECTOR (0xFFFF0 = 0xF0000 + 0x0FFF0)
+
+BITS 16
+ORG 0xFFF0				; ROM is at 0xF0000
+
+SECTION .text
+
+_reset:
+	JMP 0xF000:0x0000
+	NOP
